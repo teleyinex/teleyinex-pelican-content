@@ -28,3 +28,8 @@ RELATIVE_URLS = True
 THEME = 'basic'
 
 NEWEST_FIRST_ARCHIVES = True
+
+BIBTEX_FILE = 'bib/daniel-lombrana.bib'
+
+PLUGINS = ['pelican.plugins.bibtex']
+
