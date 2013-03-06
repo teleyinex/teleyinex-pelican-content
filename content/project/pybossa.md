@@ -8,8 +8,8 @@ State: production
 Slug: pybossa 
 Role: core developer, researcher
 Summary: an open-source volunteer thinking framework
-Partners: <a href="http://citizencyberscience.net">Citizen Cyberscience Centre</a>, <a href="http://okf.org">Open Knowledge Foundation</a>
-Funders: <a href="http://soros.org">Open Society Foundation</a>
+Partners: <a href="http://citizencyberscience.net"><span itemprop="creator">Citizen Cyberscience Centre</span></a>, <a href="http://okf.org"><span itemprop="creator">Open Knowledge Foundation</span></a>
+Funders: <a href="http://soros.org">Open Society Foundation</a>, <a href="http://www.sloan.org"><span itemprop="contributor">Alfred P. Sloan Foundation</span></a>
 Icon: pybossa.jpg
 Iconauthor: <a href="http://www.flickr.com/photos/mcgarry/111003432/">Kevin MacGarry</a>
 thumbnail: pybossa.jpg

@@ -7,8 +7,8 @@ Type: volunteer thinking
 State: alpha
 Slug: forestwatchers
 Summary: a citizen project for forest monitoring
-Partners: <a href="#">Brazil National Institute for Space Research</a>, <a href="#">Citizen Cyberscience Centre</a>
-Funders: <a href="http://soros.org">Open Society Foundation</a>
+Partners: <a href="http://www.inpe.br"><span itemprop="creator">Brazil National Institute for Space Research</span></a>, <a href="http://citizencyberscience.net"><span itemprop="creator">Citizen Cyberscience Centre</span></a>
+Funders: <a href="http://soros.org"><span itemprop="contributor">Open Society Foundation</span></a>
 Icon: forest.jpg
 Iconauthor: <a href="http://www.flickr.com/photos/vinothchandar/6820565620/">Vinoth Chandar</a>
 Lang: en

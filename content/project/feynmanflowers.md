@@ -7,7 +7,7 @@ Home: http://crowdcrafting.org/app/feynmanflowers
 State: production
 Slug: feynmanflowers
 Summary: analyzing nano-molecules with web browsers
-Partners: <a href="http://citizencyberscience.net">Citizen Cyberscience Centre</a>, <a href="http://www.ucl.ac.uk/hirjibehedin">The Hirjibehedin Research Group</a>, <a href="http://www.london-nano.com">London Centre for Nanotechnology</a>, <a href="http://www.ucl.ac.uk">University College London</a>
+Partners: <a href="http://citizencyberscience.net"><span itemprop="creator">Citizen Cyberscience Centre</span></a>, <a href="http://www.ucl.ac.uk/hirjibehedin"><span itemprop="creator">The Hirjibehedin Research Group</span></a>, <a href="http://www.london-nano.com"><span itemprop="creator">London Centre for Nanotechnology</span></a>, <a href="http://www.ucl.ac.uk"><span itemprop="creator">University College London</span></a>
 Icon: feynman.png
 Lang: en
 Role: core developer

@@ -7,7 +7,7 @@ Home: http://crowdcrafting.org/app/philippinestyphoon
 State: production
 Slug: philippinestyphoon
 Summary: Classifying tweets about Typhoon Pablo
-Partners: <a href="http://citizencyberscience.net">Citizen Cyberscience Centre</a>, <a href="http://irevolution.net/2012/12/05/digital-response-to-typhoon-philippines/">The Digital Humanitarian Network</a>
+Partners: <a href="http://citizencyberscience.net"><span itemprop="creator">Citizen Cyberscience Centre</span></a>, <a href="http://irevolution.net/2012/12/05/digital-response-to-typhoon-philippines/"><span itemprop="creator">The Digital Humanitarian Network</span></a>
 Icon: typhoon.jpg
 Iconauthor: <a href="http://www.flickr.com/photos/gsfc/8242494364/">NASA</a>
 Lang: en

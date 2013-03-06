@@ -8,8 +8,8 @@ State: production
 Slug: test4theory 
 Role: core developer, researcher, community manager
 Summary: a virtual atom smasher
-Partners: <a href="http://citizencyberscience.net">Citizen Cyberscience Centre</a>, <a href="http://cern.ch">CERN</a>
-Funders: <a href="http://lpcc.web.cern.ch/LPCC/">LHC Physics Centre at CERN</a>, <a href="http://www.shuttleworthfoundation.org/">Shuttleworth Foundation</a>
+Partners: <a href="http://citizencyberscience.net"><span itemprop="creator">Citizen Cyberscience Centre</span></a>, <a href="http://cern.ch"><span itemprop="creator">CERN</span></a>
+Funders: <a href="http://lpcc.web.cern.ch/LPCC/"><span itemprop="contributor">LHC Physics Centre at CERN</span></a>, <a href="http://www.shuttleworthfoundation.org/"><span itemprop="contributor">Shuttleworth Foundation</span></a>
 Icon: lhc.jpg
 Iconauthor: <a href="http://cern.ch">CERN</a>
 thumbnail: lhc.jpg
