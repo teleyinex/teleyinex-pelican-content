@@ -33,3 +33,4 @@ BIBTEX_FILE = 'bib/daniel-lombrana.bib'
 
 PLUGINS = ['pelican.plugins.bibtex']
 
+GOOGLE_AUTHOR = 'https://plus.google.com/105984938874365438913'
